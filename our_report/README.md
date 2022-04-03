@@ -24,7 +24,7 @@
 O χρήστης βγαίνει σε club για να διασκεδάσει και φοράει τα γυαλιά προκειμένου να τραβήξει την προσοχή και να  προσδώσει μια δόση χιούμορ στην εμπειρία του.
 
 •	NEEDED TECHNOLOGIES:
-arduino, RGB, LED lights, γυαλιά ηλίου/blue light
+Arduino, RGBW LED lights, γυαλιά ηλίου/blue light
 
 # 2nd Deliverable
 
