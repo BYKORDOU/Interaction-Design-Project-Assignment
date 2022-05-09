@@ -29,7 +29,8 @@ Lillo, RGBW LED lights, μάσκα ΚΝ-94, αισθητήρας αναγνώρ�
 
 •	INFORMATION ARCHITECTURE:
 
-![image](https://user-images.githubusercontent.com/101411234/167391754-7861494b-ee65-4ec7-817f-2f085482bb07.png)
+ANALOGUE
+![image](https://user-images.githubusercontent.com/101411234/167392839-4809ca2b-fbe6-4986-8f00-0b32ea116d79.png)
 
 
 •	USER INTERACTION:
