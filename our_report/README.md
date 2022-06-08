@@ -44,6 +44,9 @@ Lillo, RGBW LED lights, μάσκα ΚΝ-94, αισθητήρας αναγνώρ�
 # 3rd Deliverable 
 
 •	SCENARIO:
+![image](https://user-images.githubusercontent.com/101411234/172659607-22fdaac5-b681-4561-957f-c02af54f0d05.png)
+
+•	STORYBOARD:
 
 # Conclusions
 
