@@ -27,7 +27,7 @@
 O χρήστης φοράει την μάσκα ΚΝ-94 και αναλόγως τη θερμορασία που εκπέμπει η αναπνοή του, εκείνη αλλάζει χρώμα προσδιορίζοντας το βαθμό δυσφορίας που νιώθει ο χρήστης, ενεργοποιώντας παράλληλα έναν αισθητήρα ηχητικής ειδοποίησης.
 
 •	NEEDED TECHNOLOGIES:
-Lillo, RGBW LED lights, μάσκα ΚΝ-94, αισθητήρας αναγνώρησης θερμοκρασίας, καλώδια, bipper (αισθητήρας ηχητικής ειδοποίησης)
+LilyPad, RGBW LED lights, μάσκα ΚΝ-94, αισθητήρας αναγνώρησης θερμοκρασίας, καλώδια, bipper (αισθητήρας ηχητικής ειδοποίησης)
 # 2nd Deliverable
 
 •	INFORMATION ARCHITECTURE:
@@ -67,5 +67,6 @@ Lillo, RGBW LED lights, μάσκα ΚΝ-94, αισθητήρας αναγνώρ�
 •	https://drive.google.com/drive/folders/1qbU6QIToA7nJ_LhRTpn6WbO-B2iANe-e
 •	https://www.programiz.com/java-programming/examples
 •	https://www.tinkercad.com/dashboard
+• https://www.arduino.cc/
 
 
