@@ -58,10 +58,19 @@ LilyPad, RGBW LED lights, μάσκα ΚΝ-94, αισθητήρας αναγνώ�
 •	PROTOTYPES:
 
 ![image](https://user-images.githubusercontent.com/101411234/173079697-50e269aa-48f8-4594-b34f-3faf177d8d53.png)
+
 ![image](https://user-images.githubusercontent.com/101411234/173079721-42144e5e-bf80-40c0-baa0-a3ab8231a544.png)
+
 ![image](https://user-images.githubusercontent.com/101411234/173079742-56ae16e9-a2e7-4d16-857b-e9c3fe6b0a59.png)
+
 ![image](https://user-images.githubusercontent.com/101411234/173079763-2397dbbe-1e10-4f98-afcc-b2785c089206.png)
+
 https://youtube.com/shorts/WPfP66OAAxc?feature=share
+
+![Untitled](https://user-images.githubusercontent.com/101411234/173138113-fcb2046c-b13f-4cac-9ce8-b0c83b935054.png)
+
+![Untitled2](https://user-images.githubusercontent.com/101411234/173138134-4c60330c-1275-4cbc-821b-8cd157d5f664.png)
+
 
 
 # Conclusions
